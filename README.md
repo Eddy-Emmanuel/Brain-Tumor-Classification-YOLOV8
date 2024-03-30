@@ -3,7 +3,7 @@
 **Introduction:**
 This project focuses on the detection of brain tumors using the YOLOv8 object detection algorithm. The goal is to provide a reliable and efficient tool for medical professionals to assist in diagnosing brain tumors from MRI images.
 
-**A Brief Overview**
+**A Brief Overview:**
 A brain tumor refers to an abnormal growth of cells within the brain or the surrounding tissues. These tumors can be either benign (non-cancerous) or malignant (cancerous), and they can originate from different types of brain cells, such as glial cells, meninges, or nerves.
 
 **Types of Brain Tumors:**
